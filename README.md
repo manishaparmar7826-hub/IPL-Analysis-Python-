@@ -1,5 +1,5 @@
 # IPL-Analysis-Python-
-his project involves a comprehensive exploratory data analysis (EDA) of Indian Premier League (IPL) match data using Python. The primary goal was to uncover key performance trends, player statistics, and match dynamics across multiple seasons of the tournament.
+This project involves a comprehensive exploratory data analysis (EDA) of Indian Premier League (IPL) match data using Python. The primary goal was to uncover key performance trends, player statistics, and match dynamics across multiple seasons of the tournament.
 
 Key Responsibilities & Highlights:
 
